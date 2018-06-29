@@ -202,5 +202,8 @@
   "publishConfig": {
     "access": "public",
     "tag": "latest"
+  },
+  "optionalDependencies": {
+    "puppeteer": "^1.5.0"
   }
 }

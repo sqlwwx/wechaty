@@ -1,6 +1,6 @@
 {
   "name": "wechaty-dev",
-  "version": "0.17.46",
+  "version": "0.0.1",
   "description": "Wechat for Bot(Personal Account)",
   "main": "dist/src/index.js",
   "typings": "dist/src/index.d.ts",
@@ -181,27 +181,6 @@
     "typedoc": "^0.11.1",
     "typescript": "^2.9.2",
     "wechaty-puppet-mock": "^0.0.4"
-  },
-  "files_comment__whitelist_npm_publish": "http://stackoverflow.com/a/8617868/1123955",
-  "files": [
-    "CHANGELOG",
-    "LICENSE",
-    "README.md",
-    "package.json",
-    "bin",
-    "dist/bin",
-    "dist/index.*",
-    "dist/src",
-    "src"
-  ],
-  "git": {
-    "scripts": {
-      "pre-push": "./scripts/pre-push.sh"
-    }
-  },
-  "publishConfig": {
-    "access": "public",
-    "tag": "latest"
   },
   "optionalDependencies": {
     "puppeteer": "^1.5.0"

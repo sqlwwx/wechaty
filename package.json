@@ -1,5 +1,5 @@
 {
-  "name": "wechaty",
+  "name": "wechaty-dev",
   "version": "0.17.46",
   "description": "Wechat for Bot(Personal Account)",
   "main": "dist/src/index.js",
@@ -44,7 +44,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chatie/wechaty.git"
+    "url": "git+https://github.com/sqlwwx/wechaty-dev.git"
   },
   "bin": {
     "wechaty-io-client": "dist/bin/io-client.js",
@@ -72,7 +72,7 @@
   },
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/chatie/wechaty/issues"
+    "url": "https://github.com/chatie/wechaty-dev/issues"
   },
   "homepage": "https://github.com/chatie/wechaty#readme",
   "eslintConfig": {
